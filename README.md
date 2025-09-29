@@ -1,3 +1,14 @@
+<img width="1296" height="718" alt="image" src="https://github.com/user-attachments/assets/a6f2a21e-20be-4eb0-b398-249fe5fc6b4a" />
+
+
+
+
+
+
+
+
+
+
 🚀 Case Prático: Análise de Vendas para Cientista de Dados Jr. com Power BI 🚀
 Estou animada em compartilhar um projeto recente que desenvolvi, focado em análise de dados de vendas para uma empresa de varejo online. Neste case prático, apliquei minhas habilidades em Power BI para transformar dados brutos em insights valiosos para o negócio.
 🎯 Objetivo do Projeto: O objetivo foi entender o desempenho de vendas ao longo do tempo, identificar os produtos mais vendidos, analisar o comportamento de compra por região e avaliar o impacto dos descontos nas vendas.
